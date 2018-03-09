@@ -1,8 +1,4 @@
 from sklearn import linear_model
-import matplotlib
-matplotlib.use('TkAgg')
-#matplotlib.use('GTKAgg')
-import matplotlib.pyplot as plt
 from sklearn.metrics import mean_squared_error
 import pandas as pd
 import numpy as np
